@@ -1,0 +1,24 @@
+{
+  "name": "jing-tool",
+  "version": "1.0.0",
+  "description": "daily dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonniebonnieljj/jing-tools.git"
+  },
+  "keywords": [
+    "javascript",
+    "dev",
+    "tools"
+  ],
+  "author": "liujingjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonniebonnieljj/jing-tools/issues"
+  },
+  "homepage": "https://github.com/bonniebonnieljj/jing-tools#readme"
+}
